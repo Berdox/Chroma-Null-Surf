@@ -1,0 +1,11 @@
+global function PrivateLobbyAddMpChromaNullSurfMap
+
+void function PrivateLobbyAddMpChromaNullSurfMap()
+{
+	AddCallback_OnCustomGamemodesInit( AddMapToPrivateMatchWhenReady )
+}
+
+void function AddMapToPrivateMatchWhenReady()
+{
+    AddPrivateMatchMap( "mp_chroma_null_surf" )     
+}

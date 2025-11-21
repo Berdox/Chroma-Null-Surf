@@ -1,0 +1,163 @@
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_purple_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_orange_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_sand_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_dark_green_blue_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_dark_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_grey_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_ligth_brown_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_medium_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_lighter_dark_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_pink_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_grey_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_blue_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_deeper_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_deep_red_col.rpak",
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_purple.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_sand_stone.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_orange.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_red.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_sand.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_dark_green_blue.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_dark_sand_stone.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_grey.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_sand_stone.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_ligth_brown.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_medium_red.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_lighter_dark_sand_stone.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_red.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_pink.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_grey.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_blue.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_deeper_red.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_deep_red.rpak",
+        }

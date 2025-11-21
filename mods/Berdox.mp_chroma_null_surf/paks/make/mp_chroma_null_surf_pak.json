@@ -1,0 +1,282 @@
+{
+    "name": "mp_chroma_null_surf",
+    "assetsDir": "G:/SteamLibrary/steamapps/common/Titanfall2/R2Northstar/mods/Berdox.mp_chroma_null_surf/paks/make/mp_chroma_null_surf_pak",
+    "outputDir": "G:/SteamLibrary/steamapps/common/Titanfall2/R2Northstar/mods/Berdox.mp_chroma_null_surf/paks/make/output",
+    "starpakPath": "mp_chroma_null_surf.starpak",
+    "version": 7,
+	"streamFileMandatory": "mp_chroma_null_surf.starpak",
+	"compressLevel": 0,
+	"compressWorkers": 16,
+    "files": [
+        {
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_white_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_purple_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_orange_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_sand_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_dark_green_blue_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_dark_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_grey_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_ligth_brown_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_medium_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_lighter_dark_sand_stone_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_pink_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_grey_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_light_blue_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_deeper_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_deep_red_col.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_medium_grey.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_black.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/world/floors/floor_linoleum_white_nml.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/defaults/default_gls.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/defaults/default_spc.rpak",
+        },
+		{
+            "_type": "txtr",
+            "_path": "texture/tools/toolsnodraw.rpak",
+        },
+		
+		
+		
+		
+		{
+			"_type": "shdr",
+			"_path": "shader/uberDepthVsm_wld_vs.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/uberSamp2222_wld_ps.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/null_ps.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/uberDepthVsm_ps.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/uberInst_wld_vs.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/uberInstDepth_wld_vs.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/uberUnlit_wld_vs.rpak",
+		},
+		{
+			"_type": "shdr",
+			"_path": "shader/uberUnlitSamp2_ps.rpak",
+		},
+		
+		
+		
+		
+		{
+			"_type": "shds",
+			"_path": "shaderset/uberDepth_wld.rpak",
+		},
+		{
+			"_type": "shds",
+			"_path": "shaderset/uberDepthVsm_wld.rpak",
+		},
+		{
+			"_type": "shds",
+			"_path": "shaderset/uberSamp2222_wld.rpak",
+		},
+		{
+			"_type": "shds",
+			"_path": "shaderset/uberUnlitSamp2_wld.rpak",
+		},
+		
+		
+		
+		
+		
+		
+		{
+            "_type": "matl",
+            "_path": "material/code_private/depth_prepass_wld.rpak"
+        },
+		{
+            "_type": "matl",
+            "_path": "material/code_private/depth_shadow_wld.rpak"
+        },
+		{
+            "_type": "matl",
+            "_path": "material/code_private/depth_vsm_wld.rpak"
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_white_colpass_wld.rpak"
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_white_wld.rpak"
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_purple_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_sand_stone_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_orange_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_red_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_sand_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_dark_green_blue_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_dark_sand_stone_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_grey_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_sand_stone_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_ligth_brown_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_medium_red_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_lighter_dark_sand_stone_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_red_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_pink_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_grey_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_light_blue_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_deeper_red_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_deep_red_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_medium_grey_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/world/floors/floor_linoleum_black_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/tools/toolsnodraw_colpass_wld.rpak",
+        },
+		{
+            "_type": "matl",
+            "_path": "material/tools/toolsnodraw_wld.rpak",
+        }
+    ]
+}
