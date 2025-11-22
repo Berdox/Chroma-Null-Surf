@@ -17,6 +17,11 @@ It will launch the map in the surf game mode with settings I have set for the ga
 
 ⚠️ If you launch the map in a game mode except surf, **it will crash the map.**
 
+## Know bugs
+- If you load the map with **Sun Shadow Detail** not disable, it will mess with lighting and shadows.
+  You just need to change **Sun Shadow Detail** to anything else and apply the change and it will
+  fix the bug.
+
 ## Feedback & Issues
 
 Please report any bugs or suggestions by:
