@@ -1,0 +1,48 @@
+{
+	"Name" : "Berdox.mp_chroma_null_surf",
+	"Description": "",
+	"Version": "1.0.2",
+	"LoadPriority": 3,
+	"RequiredOnClient": true,
+	
+	"Scripts": [
+		{
+			"Path": "lobby/sh_private_lobby_mp_chroma_null_surf.gnut",
+			"RunOn": "( CLIENT || SERVER ) && MP",
+			"ClientCallback": {
+				"Before": "PrivateLobbyAddMpChromaNullSurfMap"
+			},
+			"ServerCallback": {
+				"Before": "PrivateLobbyAddMpChromaNullSurfMap"
+			}
+		},
+		{
+			"Path": "sv_trigger_function.nut",
+			"RunOn": "SERVER && MP"
+		},
+		{
+			"Path": "sv_trigger_dispatch.nut",
+			"RunOn": "SERVER && MP",
+			"ServerCallback": {
+				"After": "Script_Dispatch_Init"
+			}
+		},
+		{
+			"Path": "cl_color_correction.nut",
+			"RunOn": "CLIENT && MP",
+			"ClientCallback": {
+				"Before": "cl_setlight_init"
+			},
+		},
+		{
+			"Path": "cl_lighitng_warning.nut",
+			"RunOn": "CLIENT && MP",
+			"ClientCallback": {
+				"After": "Display_Lighting_Warning_init"
+			},
+		}
+	],
+	"Localisation": [
+        "resource/mp_chroma_null_surf_%language%.txt"
+    ]
+}

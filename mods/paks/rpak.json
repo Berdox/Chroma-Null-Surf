@@ -1,0 +1,9 @@
+{
+	"Preload": {
+		"mp_chroma_null_surf_loadscreen.rpak": false,
+	},
+	"Aliases": {
+	},
+	"Postload": {
+        }
+}

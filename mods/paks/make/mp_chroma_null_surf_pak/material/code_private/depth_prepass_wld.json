@@ -1,0 +1,38 @@
+{
+	"name": "code_private/depth_prepass",
+	"width": 0,
+	"height": 0,
+	"depth": 0,
+	"glueFlags": "0x10200000",
+	"glueFlags2": "0x100000",
+	"blendStates": [
+		"0x138004",
+		"0x138004",
+		"0x138004",
+		"0x138004",
+		"0x0",
+		"0x0",
+		"0x0",
+		"0x0"
+	],
+	"blendStateMask": "0x4",
+	"depthStencilFlags": "0x17",
+	"rasterizerFlags": "0x6",
+	"uberBufferFlags": "0x0",
+	"features": "0x9D65402",
+	"samplers": "0x300",
+	"surfaceProp": "default",
+	"surfaceProp2": "",
+	"shaderType": "wld",
+	"shaderSet": "0x40D1AEEBF699D997",
+	"$textures": {
+	},
+	"$textureTypes": {
+	},
+	"$depthShadowMaterial": "0x0",
+	"$depthPrepassMaterial": "0x0",
+	"$depthVSMMaterial": "0x0",
+	"$depthShadowTightMaterial": "0x0",
+	"$colpassMaterial": "0x0",
+	"$textureAnimation": "0x0"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "mp_chroma_null_surf_loadscreen",
+    "assetsDir": "G:/SteamLibrary/steamapps/common/Titanfall2/R2Northstar/mods/Berdox.mp_chroma_null_surf/paks/make/mp_chroma_null_surf_loading_screen",
+    "outputDir": "G:/SteamLibrary/steamapps/common/Titanfall2/R2Northstar/mods/Berdox.mp_chroma_null_surf/paks/make/output",
+    "version": 7,
+	"streamFileMandatory": "mp_chroma_null_surf_loadscreen.starpak",
+	"compressLevel": 0,
+	"compressWorkers": 16,
+    "files": [
+        {
+            "_type": "txtr",
+            "_path": "texture/loadscreens/mp_chroma_null_widescreen.rpak",
+        },
+		
+		{
+            "_type": "matl",
+            "_path": "material/loadscreens/mp_chroma_null_widescreen_gen.rpak",
+        }
+    ]
+}
