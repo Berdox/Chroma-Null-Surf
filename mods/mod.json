@@ -1,7 +1,7 @@
 {
 	"Name" : "Berdox.mp_chroma_null_surf",
 	"Description": "",
-	"Version": "1.0.7",
+	"Version": "1.0.8",
 	"LoadPriority": 3,
 	"RequiredOnClient": true,
 	
