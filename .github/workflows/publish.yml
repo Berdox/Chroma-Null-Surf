@@ -48,5 +48,5 @@ jobs:
           token: ${{ secrets.TS_KEY }} 
           # Directory to wrap the contents of the repo in
           wrap: mods/${{ github.repository_owner }}.mp_chroma_null_surf # This will wrap your Author.ModName folder in a mods/ folder before publishing
-          deps: Berdox-Surf_Game_Mode-1.0.2 Berdox-Gauntlet_Framework-0.5.5 # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
+          deps: "Berdox-Surf_Game_Mode-1.0.2 Berdox-Gauntlet_Framework-0.5.5" # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
           categories: "mods Server-side Client-side" # <----------------------------- Add more categories as needed, separated by spaces
