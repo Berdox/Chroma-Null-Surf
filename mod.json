@@ -1,7 +1,7 @@
 {
 	"Name" : "Berdox.mp_chroma_null_surf",
 	"Description": "A custom surf map made for titanfall 2",
-	"Version": "1.0.11",
+	"Version": "1.0.12",
 	"LoadPriority": 3,
 	"RequiredOnClient": true,
 	
