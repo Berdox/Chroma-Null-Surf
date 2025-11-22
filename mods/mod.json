@@ -1,7 +1,7 @@
 {
 	"Name" : "Berdox.mp_chroma_null_surf",
 	"Description": "",
-	"Version": "1.0.0",
+	"Version": "1.0.2",
 	"LoadPriority": 3,
 	"RequiredOnClient": true,
 	
@@ -18,25 +18,25 @@
 		},
 		{
 			"Path": "sv_trigger_function.nut",
-			"RunOn": "SERVER"
+			"RunOn": "SERVER && MP"
 		},
 		{
 			"Path": "sv_trigger_dispatch.nut",
-			"RunOn": "SERVER",
+			"RunOn": "SERVER && MP",
 			"ServerCallback": {
 				"After": "Script_Dispatch_Init"
 			}
 		},
 		{
 			"Path": "cl_color_correction.nut",
-			"RunOn": "CLIENT",
+			"RunOn": "CLIENT && MP",
 			"ClientCallback": {
 				"Before": "cl_setlight_init"
 			},
 		},
 		{
 			"Path": "cl_lighitng_warning.nut",
-			"RunOn": "CLIENT",
+			"RunOn": "CLIENT && MP",
 			"ClientCallback": {
 				"After": "Display_Lighting_Warning_init"
 			},
