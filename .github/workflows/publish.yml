@@ -35,7 +35,7 @@ jobs:
           community: northstar
           # Name of the team to publish the mod under
           # This should be modified if your github username is different than your team name on Thunderstore
-          namespace:  Berdox # <------ DOUBLE CHECK THIS
+          namespace: Berdox # <------ DOUBLE CHECK THIS
           # Name of the package
           name: MP_Chroma_Null_Surf # This can be modified if the package name differs from the repo name
           # Package version to publish
@@ -46,5 +46,5 @@ jobs:
           token: ${{ secrets.TS_KEY }} 
           # Directory to wrap the contents of the repo in
           wrap: mods/Berdox.mp_chroma_null_surf # This will wrap your Author.ModName folder in a mods/ folder before publishing
-          deps: Berdox-Gauntlet_Framework-0.5.2 Berdox-Surf_Game_Mode-1.0.2 # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
+          deps: Berdox-Gauntlet_Framework-0.5.2 Berdox-Surf_Game_Mode-1.1.1 # <------------- Uncomment this line to add dependencies to your mod, each sparated by a space
           categories: "mods client-side server-side"  # <----------------------------- Add more categories as needed, separated by spaces
