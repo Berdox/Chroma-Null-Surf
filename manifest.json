@@ -1,7 +1,0 @@
-{
-    "name": "MP_Chroma_Null_Surf",
-    "version_number": "1.0.9",
-    "website_url": "https://github.com/Berdox/Chroma-Null-Surf",
-    "description": "A custom surf map made for titanfall 2",
-    "dependencies": ["Berdox-Gauntlet_Framework-0.5.2", "Berdox-Surf_Game_Mode-1.1.1"]
-}
